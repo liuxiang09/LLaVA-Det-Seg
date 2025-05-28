@@ -1,0 +1,5 @@
+# ninja log v5
+1	386	1744366997519893120	/home/hpc/Desktop/LLaVA-Det-Seg/build/temp.linux-x86_64-cpython-310/home/hpc/Desktop/LLaVA-Det-Seg/groundingdino/models/GroundingDINO/csrc/cuda_version.o	f83e3e6b27edfb82
+0	2330	1744366999460925500	/home/hpc/Desktop/LLaVA-Det-Seg/build/temp.linux-x86_64-cpython-310/home/hpc/Desktop/LLaVA-Det-Seg/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cpu.o	4c29bb4c9e424439
+1	8084	1744367005215021472	/home/hpc/Desktop/LLaVA-Det-Seg/build/temp.linux-x86_64-cpython-310/home/hpc/Desktop/LLaVA-Det-Seg/groundingdino/models/GroundingDINO/csrc/vision.o	70e492cc825721be
+1	8907	1744367006037035181	/home/hpc/Desktop/LLaVA-Det-Seg/build/temp.linux-x86_64-cpython-310/home/hpc/Desktop/LLaVA-Det-Seg/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cuda.o	71b88fe9a75bd446
